@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'nubeera'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95A61E5A083D46F3B031463000E21D96 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B33975B4241491695AFEE2532DC5A69 }}
